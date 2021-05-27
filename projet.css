@@ -1,0 +1,40 @@
+body {
+background-image: url(https://www.publicdomainpictures.net/pictures/60000/nahled/silver-background-for-christmas.jpg);
+}
+h1
+{
+	text-decoration: underline;
+  font-size: 225%;
+  font-family: Algerian;
+  text-align: center;
+	background-color: indigo;
+  color: aliceblue;
+  text-shadow: black 0 0 2px;
+}
+h2
+{
+	font-size: 150%;
+  font-family: Stencil;
+  text-decoration: underline aquamarine;
+	color: blue;
+  text-shadow: 2px 1px 1px black;
+}
+p1
+{
+  font-family: Monotype Corsiva;
+}
+p1 span {
+color: blue;
+}
+a
+{
+  font-style: italic;
+}
+h3
+{
+  font-family: Felix Titling;
+  color: black;
+  text-align: right;
+  text-shadow: white -1px 0 0;
+  text-decoration: dashed underline overline;
+}
